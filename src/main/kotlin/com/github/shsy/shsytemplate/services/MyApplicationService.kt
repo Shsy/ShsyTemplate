@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.shsy.shsytemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.shsy.shsytemplate.MyBundle
 
 class MyApplicationService {
 
